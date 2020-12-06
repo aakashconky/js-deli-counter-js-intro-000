@@ -32,7 +32,7 @@ if (i === 0){
 outputString = outputString + (i+1) + “. ” + line[i];
 }
 else{
-outputString = outputString + “, ” + (i+1) + “. ” + line[i];
+outputString = outputString + ", " + (i+1) + ". " + line[i];
 }
 }
 }
