@@ -22,7 +22,7 @@ return outputString;
 function currentLine(line){
 var outputString;
 if (line.length === 0){
-outputString = “The line is currently empty.”
+outputString = "The line is currently empty."
 }
 else{
 outputString = "The line is currently: "
